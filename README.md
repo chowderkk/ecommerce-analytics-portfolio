@@ -1,4 +1,4 @@
-Markdown
+
 # End-to-End E-Commerce Data Warehouse & BI Dashboard
 
 A full-stack data analytics and engineering project simulating a modern corporate data pipeline. This project ingests raw retail data, models a relational star schema in PostgreSQL, performs advanced RFM (Recency, Frequency, Monetary) customer segmentation via SQL, and delivers an interactive executive dashboard in Power BI.
